@@ -8,7 +8,7 @@ architecture (bronze, silver, gold), with a dashboard and an automated job.
 > so the cleaning step has real work to do. It is not real market data.
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Architecture
 Raw CSV -> Bronze (raw Delta table) -> Silver (cleaned) -> Gold (aggregated) -> Dashboard
@@ -39,7 +39,7 @@ A Databricks Job runs the three notebooks in sequence. Each task depends
 on the one before it, so silver only runs if bronze succeeds, and gold
 only runs if silver succeeds.
 
-![Job tasks](job-task.png)
+![Job tasks](job-tasks.png)
 ![Job runs](job-runs.png)
 
 ## Data quality decisions
