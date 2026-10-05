@@ -1,0 +1,616 @@
+listing_id,suburb,city,property_type,bedrooms,bathrooms,floor_size_sqm,erf_size_sqm,asking_price,listing_date,status,agent
+L1284,Sandton,Johannesburg,Apartment,3,3,172,,,2025-12-23,Active,Agent D
+L1347,Lynnwood,Pretoria,Apartment,1,1,,,1645000,2025-01-01,Active,Agent E
+L1025,Waterkloof,Pretoria,Townhouse,3,3,159,804,3705000,2026-05-14,Active,Agent B
+L1586,Randburg,Johannesburg,House,1,1,94,525,1345000,2026-07-25,Active,Agent A
+L1097,Rosebank,Johannesburg,House,4,4,192,1093,4660000,2025-06-05,Sold,Agent A
+L1483,Waterkloof Ridge,Pretoria,Townhouse,2,1,127,695,R 3 415 000,2026-06-15,Active,Agent B
+L1266,Lynnwood,Pretoria,House,3,3,146,616,2355000,2026-03-22,Active,Agent D
+L1106,Irene,Centurion,Apartment,2,2,122,,,2026-05-10,Active,Agent B
+L1457,Brooklyn,Pretoria,House,2,2,135,591,R 2 475 000,2025-03-20,Withdrawn,Agent A
+L1192,ERASMUSKLOOF,Pretoria,Apartment,2,2,127,,1895000,2025-03-03,Active,Agent D
+L1598,Sandton,Johannesburg,Apartment,2,1,132,,2590000,2026-06-18,Active,Agent E
+L1403,Brooklyn,Pretoria,House,2,2,133,454,2750000,2025-07-26,Active,Agent F
+L1081,Hatfield,Pretoria,House,,2,131,399,1800000,2026-04-27,Active,Agent A
+L1481,Waterkloof Ridge,Pretoria,House,1,1,102,469,2055000,2025-09-27,Active,Agent C
+L1109,Hatfield,Pretoria,Apartment,1,1,112,,R 1 085 000,2026-03-28,Active,Agent E
+L1371,Fourways,Johannesburg,House,4,3,196,678,3555000,2026-02-16,Active,Agent D
+L1002,Waterkloof Ridge,Pretoria,House,3,3,189,806,3680000,2025-07-23,Withdrawn,Agent F
+L1563,Groenkloof,Pretoria,House,5,5,,562,4915000,2025-11-09,Active,Agent D
+L1408,Lynnwood,Pretoria,House,4,3,187,643,4120000,2026-01-17,Active,Agent B
+L1169,Waterkloof,Pretoria,House,4,4,172,582,3050000,2025-03-11,Active,Agent B
+L1500,Irene,Centurion,House,2,1,137,671,2715000,2025-10-04,active,Agent E
+L1033,ERASMUSKLOOF,Pretoria,Apartment,2,2,118,,1800000,2025-09-15,Active,Agent A
+L1053,Fourways,Johannesburg,Townhouse,5,5,254,1056,4495000,2025-09-11,Withdrawn,Agent C
+L1061,Hatfield,Pretoria,Apartment,2,2,123,,1445000,2025-03-25,Sold,Agent A
+L1311,Hatfield,Pretoria,Townhouse,3,2,195,1139,2565000,2025-04-26,Active,Agent D
+L1317,Groenkloof,Pretoria,Townhouse,2,2,126,608,2410000,2025-06-29,Active,Agent A
+L1159,Centurion,Centurion,House,4,4,175,1040,2820000,2025-10-16,Sold,Agent E
+L1286,Menlo Park,Pretoria,Apartment,2,1,117,,1585000,2026-01-28,Sold,Agent B
+L1260,Rosebank,Johannesburg,Townhouse,3,3,151,712,4000000,2026-04-07,Sold,Agent B
+L1398,Bryanston,Johannesburg,Townhouse,2,2,127,326,2735000,2025-05-15,Active,Agent F
+L1047,Sandton,Johannesburg,Apartment,2,1,133,,3815000,2025-06-23,Withdrawn,Agent A
+L1066,Brooklyn,Pretoria,Townhouse,1,1,79,344,1595000,2025-03-12,Under Offer,Agent F
+L1362,Hatfield,Pretoria,House,3,3,170,706,2025000,2026-02-12,Sold,Agent D
+L1465,Rosebank,Johannesburg,Townhouse,3,2,142,526,250000000,2025-01-07,Under Offer,Agent B
+L1491,Bryanston,Johannesburg,Apartment,1,1,100,,1860000,2025-12-17,active,Agent E
+L1387,Centurion,Centurion,Apartment,2,1,122,,1450000,2026-07-26,Active,Agent C
+L1111,Bryanston,Johannesburg,Apartment,2,2,128,,2875000,2025-10-30,Withdrawn,Agent C
+L1179,Menlo Park,Pretoria,Apartment,2,2,124,,1680000,2026-01-11,Sold,Agent C
+L1571,Irene,Centurion,Apartment,3,3,156,,1825000,2025-03-23,Withdrawn,Agent D
+L1204,Brooklyn,Pretoria,Townhouse,3,2,160,888,3185000,2026-05-01,Active,Agent F
+L1470,Randburg,Johannesburg,Apartment,2,2,128,,1475000,2026-02-25,Under Offer,Agent B
+L1540,Brooklyn,Pretoria,Apartment,3,3,169,,2540000,2026-06-23,Withdrawn,Agent B
+L1444,Fourways,Johannesburg,Apartment,1,1,95,,1880000,2025-01-25,Sold,Agent F
+L1209,Hatfield,Pretoria,Townhouse,3,2,154,914,2275000,2025-08-01,Withdrawn,Agent F
+L1366,Centurion,Centurion,Apartment,1,1,100,,1640000,2025-02-05,Under Offer,Agent E
+L1570,Fourways,Johannesburg,House,3,3,162,846,2885000,2025-07-09,Active,Agent E
+L1509,LYNNWOOD,Pretoria,Townhouse,2,1,131,668,2670000,2025-08-04,Active,Agent D
+L1471, Lynnwood ,Pretoria,Apartment,3,3,176,,3540000,2025-03-12,Active,Agent D
+L1524,Rosebank,Johannesburg,Townhouse,4,4,226,1148,4235000,2026-04-17,Withdrawn,Agent A
+L1251,Waterkloof,Pretoria,Apartment,2,1,,,2875000,2026-03-17,Active,Agent A
+L1225,Centurion,Centurion,Apartment,3,3,146,,1910000,2026-08-01,Active,Agent A
+L1330,Menlo Park,Pretoria,Apartment,2,2,146,,2445000,2025-03-05,Sold,Agent F
+L1429,Fourways,Johannesburg,Apartment,3,3,176,,2530000,2025-04-20,Active,Agent D
+L1480,Brooklyn,Pretoria,Townhouse,4,3,204,1187,3170000,2026-06-05,Sold,Agent C
+L1308,Hatfield,Pretoria,Apartment,1,1,94,,1200000,2026-03-30,Active,Agent A
+L1454,Hatfield,Pretoria,House,4,4,217,1010,2845000,2026-08-22,Active,Agent E
+L1301,Menlo Park,Pretoria,Apartment,2,2,150,,1935000,2026-04-16,Active,Agent A
+L1489,Randburg,Johannesburg,Townhouse,4,4,201,825,2885000,2026-08-24,Active,Agent D
+L1084,Erasmuskloof,Pretoria,House,4,3,173,616,2970000,2025-10-06,Under Offer,Agent E
+L1372,Sandton,Johannesburg,Apartment,1,1,92,,2215000,2025-10-03,Active,Agent A
+L1276,Brooklyn,Pretoria,House,3,3,157,673,3245000,2026-08-18,Withdrawn,Agent E
+L1406,Brooklyn,Pretoria,Townhouse,3,3,145,864,2485000,2026-04-21,Active,Agent A
+L1183,Groenkloof,Pretoria,Apartment,2,2,144,,2830000,2025-06-28,Active,Agent E
+L1566,Sandton,Johannesburg,Townhouse,2,2,112,566,2980000,2025-08-21,Sold,Agent B
+L1089,GROENKLOOF,Pretoria,House,3,3,179,769,R 4 230 000,2026-07-10,Sold,Agent D
+L1383,Brooklyn,Pretoria,House,3,2,152,538,2575000,2025-03-07,Active,Agent C
+L1213,Menlo Park,Pretoria,House,3,3,195,641,3260000,2025-04-13,Sold,Agent C
+L1224,Midrand,Midrand,House,3,3,187,926,3735000,2026-07-05,Withdrawn,Agent B
+L1332,Groenkloof,Pretoria,Townhouse,2,1,123,354,1820000,2026-04-06,Sold,Agent C
+L1003,Fourways,Johannesburg,House,3,3,165,656,3205000,2025-08-09,Active,Agent A
+L1493,Hatfield,Pretoria,Apartment,1,1,92,,975000,2025-07-27,Active,Agent E
+L1235,Randburg,Johannesburg,Apartment,1,1,94,,1120000,2025-08-11,Active,Agent B
+L1508,Rosebank,Johannesburg,House,4,4,209,1069,5400000,2026-04-07,Sold,Agent B
+L1191,Irene,Centurion,Apartment,3,3,162,,2805000,2026-07-13,Active,Agent F
+L1091,Menlo Park,Pretoria,Townhouse,4,3,196,922,3865000,2025-06-12,Active,Agent E
+L1186,Fourways,Johannesburg,Townhouse,2,2,125,737,2630000,2026-04-06,Sold,Agent F
+L1203,Erasmuskloof,Pretoria,Apartment,Studio,2,141,,1960000,2025-01-18,Active,Agent C
+L1288,Bryanston,Johannesburg,Townhouse,4,4,210,668,4885000,2026-07-30,Under Offer,Agent F
+L1082,Centurion,Centurion,House,3,2,183,1008,2435000,2025-08-28,Active,Agent F
+L1071,Hatfield,Pretoria,House,4,4,189,787,2960000,2026-04-04,Active,Agent A
+L1422,Rosebank,Johannesburg,House,3,2,183,673,5215000,2025-02-17,Withdrawn,Agent F
+L1459,Irene,Centurion,Apartment,3,3,160,,2255000,2025-10-25,Active,Agent D
+L1432,Rosebank,Johannesburg,House,3,2,161,776,4895000,2026-02-01,Sold,Agent F
+L1255,Groenkloof,Pretoria,Apartment,2,1,134,,2565000,2025-04-08,Under Offer,Agent A
+L1167,Midrand,Midrand,Apartment,1,1,83,,1005000,2026-03-16,Active,Agent E
+L1098,Menlo Park,Pretoria,Apartment,3,3,180,,3370000,2026-03-27,Active,Agent E
+L1119, Bryanston ,Johannesburg,Apartment,2,2,122,,2305000,2026-04-11,Active,Agent F
+L1410,Waterkloof Ridge,Pretoria,Townhouse,2,2,110,435,2585000,2026-08-06,Withdrawn,Agent D
+L1023,Lynnwood,Pretoria,House,3,3,137,606,2195000,2026-07-08,Active,Agent A
+L1405,Waterkloof,Pretoria,House,2,2,141,426,2605000,2026-06-08,Active,Agent F
+L1331,Menlo Park,Pretoria,House,3,3,178,963,3115000,2026-04-09,Active,Agent B
+L1220,Rosebank,Johannesburg,Townhouse,5,5,208,583,5265000,2025-07-09,Active,Agent D
+L1227,Hatfield,Pretoria,Apartment,2,2,143,,1400000,2025-05-16,Under Offer,Agent D
+L1309,Brooklyn,Pretoria,House,2,1,128,512,2955000,2025-09-11,Active,Agent F
+L1070,Midrand,Midrand,House,3,3,145,504,2555000,2025-10-10,Under Offer,Agent A
+L1258,Lynnwood,Pretoria,Apartment,3,3,160,,2925000,2026-07-08,Active,Agent D
+L1538,MIDRAND,Midrand,Townhouse,2,2,133,705,1670000,2026-07-26,Withdrawn,Agent D
+L1016,Bryanston,Johannesburg,Townhouse,3,3,155,418,,2025-03-22,Active,Agent F
+L1042,Waterkloof Ridge,Pretoria,House,4,4,197,994,4445000,2026-06-08,Active,Agent D
+L1411,Lynnwood,Pretoria,Apartment,2,1,152,,2965000,2025-05-14,Sold,Agent D
+L1517,Waterkloof,Pretoria,Apartment,1,1,106,,1805000,2026-02-04,Sold,Agent B
+L1287,Midrand,Midrand,Apartment,1,1,101,,1250000,2026-04-07,Under Offer,Agent A
+L1543,Randburg,Johannesburg,Townhouse,3,2,178,676,2900000,2026-03-17,Withdrawn,Agent C
+L1145,Menlo Park,Pretoria,House,2,2,,701,2750000,2025-07-01,Withdrawn,Agent D
+L1026,ERASMUSKLOOF,Pretoria,House,1,1,117,593,1690000,2025-11-18,Active,Agent A
+L1110,Bryanston,Johannesburg,Townhouse,2,2,142,517,3350000,2025-07-25,Active,Agent E
+L1117,Randburg,Johannesburg,House,5,5,214,1198,3630000,2026-05-17,Under Offer,Agent D
+L1029,Sandton,Johannesburg,Townhouse,3,2,162,629,4595000,2025-11-04,Sold,Agent C
+L1401,Brooklyn,Pretoria,House,4,4,183,555,4070000,2025-01-10,Active,Agent D
+L1335,Waterkloof Ridge,Pretoria,Apartment,2,2,144,,2945000,2026-07-18,Active,Agent A
+L1206,Centurion,Centurion,House,2,2,148,379,,2025-06-05,Sold,Agent F
+L1556,Sandton,Johannesburg,House,1,1,,235,2035000,2026-03-29,Under Offer,Agent B
+L1417,Sandton,Johannesburg,House,4,3,196,772,5765000,2025-01-01,Active,Agent E
+L1413,Centurion,Centurion,Townhouse,3,2,141,399,2275000,2025-09-12,Sold,Agent C
+L1127,Groenkloof,Pretoria,House,5,4,212,923,4040000,2026-03-17,Active,Agent F
+L1105,Waterkloof,Pretoria,Townhouse,4,4,196,793,,2025-11-03,Withdrawn,Agent D
+L1484,Waterkloof Ridge,Pretoria,Townhouse,5,4,235,1161,5585000,2025-02-06,Active,Agent B
+L1076,Erasmuskloof,Pretoria,Apartment,1,1,104,,1840000,2026-05-18,Active,Agent A
+L1107,Rosebank,Johannesburg,Apartment,3,3,177,,4660000,2026-02-10,Active,Agent A
+L1231,Randburg,Johannesburg,Townhouse,4,4,233,1295,2855000,2025-12-23,Active,Agent B
+L1157,Sandton,Johannesburg,Townhouse,2,1,123,665,3630000,2025-06-19,Withdrawn,Agent D
+L1059,Rosebank,Johannesburg,Apartment,2,2,148,,3795000,2026-08-01,Withdrawn,Agent A
+L1430,Menlo Park,Pretoria,House,1,1,84,288,1790000,2025-10-21,Withdrawn,Agent C
+L1102,Brooklyn,Pretoria,House,3,3,173,460,4005000,2025-10-28,Active,Agent C
+L1106,Irene,Centurion,Apartment,2,2,122,,,2026-05-10,Active,Agent B
+L1407,Lynnwood,Pretoria,Townhouse,3,3,169,859,2555000,2025-02-16,Active,Agent B
+L1154,Rosebank,Johannesburg,Apartment,2,2,150,,3510000,2026-06-24,Active,Agent F
+L1485,Waterkloof,Pretoria,Townhouse,2,2,132,512,2840000,2026-06-15,Active,Agent F
+L1292,Hatfield,Pretoria,Townhouse,2,1,117,632,1715000,2025-11-01,Active,Agent D
+L1506,Erasmuskloof,Pretoria,Apartment,1,1,110,,1780000,2025-12-12,Sold,Agent F
+L1034,Fourways,Johannesburg,Townhouse,1,1,67,245,1110000,2025-09-26,Active,Agent F
+L1420,Centurion,Centurion,House,3,2,144,846,2145000,2026-06-19,Active,Agent F
+L1528,Midrand,Midrand,Apartment,1,1,97,,1560000,2025-09-12,Active,Agent D
+L1431,Menlo Park,Pretoria,Townhouse,3,3,165,882,2375000,2026-07-30,Active,Agent F
+L1575,Randburg,Johannesburg,Townhouse,4,4,203,1093,3250000,2026-02-08,Under Offer,Agent F
+L1315,Rosebank,Johannesburg,House,5,4,225,806,5790000,2025-07-28,Active,Agent E
+L1037,Bryanston,Johannesburg,House,3,2,185,1034,4725000,2025-06-08,Active,Agent B
+L1546,Centurion,Centurion,House,3,3,167,868,,2025-10-10,Under Offer,Agent E
+L1424,FOURWAYS,Johannesburg,Townhouse,4,3,168,879,3925000,2026-08-16,Active,Agent F
+L1360,Irene,Centurion,Apartment,2,2,124,,1510000,2026-02-07,under offer,Agent E
+L1228,Randburg,Johannesburg,Apartment,3,3,155,,2250000,2025-11-12,Withdrawn,Agent A
+L1424,FOURWAYS,Johannesburg,Townhouse,4,3,168,879,3925000,2026-08-16,Active,Agent F
+L1215,Midrand,Midrand,Apartment,1,1,85,,,2025-04-02,Withdrawn,Agent E
+L1386,Rosebank,Johannesburg,House,1,1,102,507,2695000,2025-07-14,Active,Agent F
+L1554,Hatfield,Pretoria,Apartment,3,3,,,2100000,2026-06-21,Active,Agent B
+L1478,Fourways,Johannesburg,Apartment,3,3,150,,3335000,2026-02-11,Active,Agent D
+L1477,Waterkloof,Pretoria,House,,2,170,488,3705000,2026-08-23,Active,Agent C
+L1439,Groenkloof,Pretoria,House,3,2,158,515,3415000,2026-06-28,Sold,Agent E
+L1285,Lynnwood,Pretoria,Townhouse,3,2,146,525,2375000,2025-04-30,Active,Agent C
+L1350,Rosebank,Johannesburg,Apartment,2,2,105,,2105000,2025-06-11,Withdrawn,Agent D
+L1421,Brooklyn,Pretoria,House,2,2,145,728,2455000,2025-07-20,Active,Agent A
+L1516,Midrand,Midrand,Townhouse,4,4,196,496,2955000,2025-10-27,Under Offer,Agent B
+L1473,Brooklyn,Pretoria,House,1,1,87,364,1490000,2026-07-07,active,Agent F
+L1510,Brooklyn,Pretoria,House,4,3,211,567,4840000,2026-06-21,Active,Agent A
+L1388,Brooklyn,Pretoria,Apartment,2,1,139,,2745000,2025-07-07,Withdrawn,Agent C
+L1322,Waterkloof,Pretoria,House,1,1,116,308,2455000,2025-06-03,Active,Agent A
+L1479,Midrand,Midrand,House,5,4,190,859,,2026-02-12,Withdrawn,Agent B
+L1210,Midrand,Midrand,House,3,2,199,1147,3800000,2025-10-08,Active,Agent A
+L1397, Erasmuskloof ,Pretoria,Apartment,3,2,149,,2455000,2025-05-18,Active,Agent D
+L1544,Centurion,Centurion,Apartment,1,1,94,,1460000,2025-09-18,Active,Agent D
+L1495,WATERKLOOF RIDGE,Pretoria,Townhouse,3,2,152,848,3550000,2025-10-09,Sold,Agent B
+L1293,Irene,Centurion,House,2,2,134,715,2035000,2025-12-26,Withdrawn,Agent E
+L1152,Waterkloof Ridge,Pretoria,Townhouse,3,3,161,588,3735000,2026-01-31,Active,Agent C
+L1395,Hatfield,Pretoria,Townhouse,1,1,95,243,980000,2025-09-12,Active,Agent F
+L1583,Waterkloof Ridge,Pretoria,Townhouse,3,2,185,567,3530000,2025-02-22,Sold,Agent C
+L1232,Rosebank,Johannesburg,Apartment,1,1,113,,2735000,2025-11-02,Sold,Agent F
+L1472,Rosebank,Johannesburg,House,1,1,114,493,3445000,2026-03-06,Active,Agent E
+L1539,Bryanston,Johannesburg,Townhouse,1,1,94,258,2105000,2025-08-10,Under Offer,Agent A
+L1393,Waterkloof Ridge,Pretoria,House,3,3,165,853,R 4 040 000,2025-04-01,Active,Agent E
+L1174,Lynnwood,Pretoria,Apartment,2,2,136,,2740000,2026-06-16,Active,Agent A
+L1418,Erasmuskloof,Pretoria,Townhouse,5,5,229,1097,3705000,2025-12-16,Active,Agent A
+L1125,Waterkloof Ridge,Pretoria,Apartment,3,3,127,,2140000,2026-05-06,Sold,Agent D
+L1433,Sandton,Johannesburg,Townhouse,1,1,94,520,2870000,2026-03-30,Active,Agent F
+L1194,Bryanston,Johannesburg,Apartment,1,1,86,,1725000,2025-05-06,Active,Agent D
+L1253,Rosebank,Johannesburg,House,4,4,158,519,4375000,2025-03-24,Withdrawn,Agent F
+L1357,Centurion,Centurion,House,2,2,126,734,1680000,2025-06-24,Sold,Agent B
+L1077,Erasmuskloof,Pretoria,Apartment,2,2,131,,2380000,2026-05-05,Active,Agent A
+L1049,Centurion,Centurion,Townhouse,2,2,171,793,2880000,2026-04-12,Sold,Agent F
+L1441,Sandton,Johannesburg,House,2,2,129,333,3725000,2026-01-19,Under Offer,Agent E
+L1207,HATFIELD,Pretoria,House,4,3,196,845,2885000,2026-05-05,Under Offer,Agent D
+L1011,Rosebank,Johannesburg,House,2,1,104,573,2255000,2025-06-13,Withdrawn,Agent D
+L1275,Groenkloof,Pretoria,House,3,2,160,743,3200000,2026-02-14,Active,Agent D
+L1518,Irene,Centurion,House,3,2,154,797,3165000,2025-10-06,Active,Agent F
+L1052,Randburg,Johannesburg,House,4,3,226,985,R 3 680 000,2025-11-21,Sold,Agent E
+L1290,Irene,Centurion,House,3,3,149,779,2670000,2026-05-23,under offer,Agent E
+L1346,Bryanston,Johannesburg,Townhouse,2,1,143,832,4020000,2026-05-20,Under Offer,Agent C
+L1595,Sandton,Johannesburg,House,3,3,150,508,3485000,2025-11-04,Under Offer,Agent E
+L1021,Midrand,Midrand,House,4,4,202,809,3300000,2026-04-24,Withdrawn,Agent A
+L1088,Fourways,Johannesburg,Apartment,2,1,132,,2885000,2026-07-18,Active,Agent D
+L1593,Midrand,Midrand,Apartment,2,2,141,,1785000,2025-10-25,Active,Agent A
+L1094,Menlo Park,Pretoria,House,5,4,220,1227,4835000,2025-10-10,Sold,Agent C
+L1024,Centurion,Centurion,House,4,4,210,682,,2025-03-02,Active,Agent D
+L1279,RANDBURG,Johannesburg,Townhouse,5,5,231,1161,3305000,2025-03-10,Active,Agent A
+L1370,Fourways,Johannesburg,House,2,2,137,612,2430000,2025-10-20,Under Offer,Agent C
+L1015,Hatfield,Pretoria,House,2,1,162,925,2425000,2026-05-16,Active,Agent A
+L1445,Sandton,Johannesburg,House,2,2,134,368,4385000,2025-09-22,Sold,Agent D
+L1542,Fourways,Johannesburg,Townhouse,2,2,104,460,2060000,2025-06-11,Under Offer,Agent E
+L1175,Fourways,Johannesburg,House,2,1,128,466,2505000,2026-04-02,under offer,Agent F
+L1358,Groenkloof,Pretoria,Apartment,1,1,107,,1840000,2026-05-10,Withdrawn,Agent A
+L1261,Bryanston,Johannesburg,Apartment,2,2,137,,2935000,2025-10-30,Active,Agent F
+L1498,Rosebank,Johannesburg,Apartment,2,2,126,,2880000,2025-09-23,Active,Agent E
+L1559,Waterkloof,Pretoria,House,5,5,240,817,5370000,2025-05-25,Withdrawn,Agent F
+L1450,Menlo Park,Pretoria,House,1,1,115,527,2215000,2025-03-29,Active,Agent B
+L1321,Bryanston,Johannesburg,House,2,2,144,810,4130000,2025-04-29,Active,Agent F
+L1110,Bryanston,Johannesburg,Townhouse,2,2,142,517,3350000,2025-07-25,Active,Agent E
+L1364,Irene,Centurion,House,3,2,193,524,3735000,2025-04-10,Active,Agent F
+L1324,Waterkloof Ridge,Pretoria,House,5,5,228,1331,4545000,2026-04-22,Active,Agent C
+L1344,Centurion,Centurion,Townhouse,2,2,161,772,2180000,2025-02-27,Active,Agent E
+L1396,Bryanston,Johannesburg,House,2,2,111,473,2705000,2025-03-08,Active,Agent C
+L1328,Erasmuskloof,Pretoria,House,5,5,217,861,4680000,2025-05-26,Withdrawn,Agent C
+L1572,Menlo Park,Pretoria,Apartment,3,3,158,,2780000,2026-01-18,Active,Agent D
+L1262,Groenkloof,Pretoria,House,2,2,148,738,3050000,2026-02-03,Active,Agent C
+L1208,Sandton,Johannesburg,Townhouse,4,3,176,650,4345000,2025-09-28,Under Offer,Agent D
+L1334,Waterkloof Ridge,Pretoria,House,3,3,169,476,3695000,2025-12-31,Sold,Agent E
+L1348,Hatfield,Pretoria,Townhouse,3,2,175,546,2615000,2025-11-28,Active,Agent A
+L1104,Centurion,Centurion,Apartment,3,3,154,,1890000,2025-09-18,Sold,Agent C
+L1504,Irene,Centurion,House,4,4,194,723,3645000,2025-07-23,Under Offer,Agent E
+L1123,Bryanston,Johannesburg,Townhouse,3,2,160,429,4335000,2026-06-23,Active,Agent F
+L1515,Irene,Centurion,House,1,1,69,205,1085000,2026-07-02,Active,Agent F
+L1198,Midrand,Midrand,House,1,1,92,368,,2026-01-10,Sold,Agent C
+L1333,Fourways,Johannesburg,House,3,3,149,817,250000000,2025-11-08,Withdrawn,Agent F
+L1278,Erasmuskloof,Pretoria,House,2,2,,595,2170000,2025-12-23,Active,Agent C
+L1282,Hatfield,Pretoria,House,4,4,215,540,2695000,2025-10-13,Withdrawn,Agent A
+L1342,Bryanston,Johannesburg,Apartment,2,2,159,,,2026-05-30,Active,Agent D
+L1101, Midrand ,Midrand,Townhouse,1,1,114,652,2160000,2025-04-03,Sold,Agent A
+L1085,Midrand,Midrand,House,1,1,93,240,1385000,2026-08-13,Under Offer,Agent A
+L1304,Erasmuskloof,Pretoria,Apartment,1,1,85,,1380000,2025-04-08,Active,Agent B
+L1236,Erasmuskloof,Pretoria,House,3,2,149,684,2875000,2025-11-25,Active,Agent C
+L1069,Groenkloof,Pretoria,House,4,4,200,967,3615000,2026-05-22,Active,Agent B
+L1319, Irene ,Centurion,House,2,1,,739,2570000,2025-01-31,Active,Agent D
+L1381,MIDRAND,Midrand,Townhouse,2,1,133,615,2470000,2025-10-09,Sold,Agent D
+L1010,Randburg,Johannesburg,House,2,2,119,607,1920000,2026-08-22,Sold,Agent E
+L1553,Sandton,Johannesburg,House,1,1,89,378,2860000,2025-05-14,Active,Agent D
+L1164,Waterkloof Ridge,Pretoria,House,4,3,212,1146,5805000,2026-04-26,Sold,Agent E
+L1168,Bryanston,Johannesburg,House,4,4,198,955,4315000,2026-01-05,Active,Agent E
+L1283,Brooklyn,Pretoria,Townhouse,5,5,228,660,4620000,2026-05-17,Under Offer,Agent F
+L1128,Brooklyn,Pretoria,Townhouse,5,4,278,1537,5080000,2025-08-22,Sold,Agent C
+L1341,Groenkloof,Pretoria,House,,2,139,603,2860000,2026-07-11,Active,Agent D
+L1565,Irene,Centurion,Townhouse,3,3,186,484,3050000,2025-10-14,Active,Agent B
+L1115,SANDTON,Johannesburg,Townhouse,3,2,190,1079,4580000,2026-02-23,Active,Agent B
+L1390,Brooklyn,Pretoria,Apartment,3,2,153,,3185000,2025-03-14,Sold,Agent B
+L1438,Centurion,Centurion,Townhouse,5,5,260,1365,3335000,2026-07-11,Under Offer,Agent D
+L1187,Bryanston,Johannesburg,House,5,4,213,628,5680000,2025-02-26,Active,Agent E
+L1412,Brooklyn,Pretoria,Townhouse,4,4,204,555,4105000,2025-01-13,Withdrawn,Agent F
+L1246,Waterkloof,Pretoria,House,4,4,192,582,4005000,2026-01-24,Under Offer,Agent B
+L1503,Lynnwood,Pretoria,House,3,3,168,857,3000000,2026-01-04,Under Offer,Agent E
+L1561,Irene,Centurion,House,1,1,85,465,1585000,2025-04-21,Active,Agent C
+L1476,Fourways,Johannesburg,House,1,1,107,545,1800000,2026-06-20,Active,Agent E
+L1490,Brooklyn,Pretoria,House,4,3,161,846,2895000,2025-08-24,Active,Agent D
+L1184,Centurion,Centurion,House,3,3,145,482,R 2 370 000,2026-01-05,Under Offer,Agent E
+L1114,Irene,Centurion,Apartment,2,2,138,,2200000,2026-04-28,Active,Agent E
+L1234,Fourways,Johannesburg,Apartment,1,1,97,,1545000,2025-04-14,Under Offer,Agent A
+L1363,Irene,Centurion,House,5,5,247,936,4200000,2025-09-27,Sold,Agent D
+L1165,Waterkloof,Pretoria,Townhouse,1,1,96,555,2085000,2026-03-10,Active,Agent C
+L1532,Midrand,Midrand,House,2,1,154,572,2870000,2025-10-09,Under Offer,Agent E
+L1295,Irene,Centurion,Apartment,1,1,107,,1635000,2026-06-11,Withdrawn,Agent A
+L1221,Sandton,Johannesburg,Townhouse,1,1,82,281,2000000,2026-08-20,Withdrawn,Agent E
+L1527,Brooklyn,Pretoria,House,4,4,226,1027,,2025-09-06,Active,Agent A
+L1056,Sandton,Johannesburg,Apartment,2,2,138,,R 2 930 000,2026-03-07,Sold,Agent E
+L1264,Fourways,Johannesburg,House,2,2,139,617,3115000,2025-11-29,Sold,Agent A
+L1318, Menlo Park ,Pretoria,Apartment,1,1,91,,1755000,2026-06-20,Under Offer,Agent F
+L1202,Menlo Park,Pretoria,Apartment,3,3,166,,2470000,2025-11-23,Active,Agent D
+L1103,Fourways,Johannesburg,House,5,5,210,649,3680000,2026-01-27,Under Offer,Agent F
+L1252,Brooklyn,Pretoria,Apartment,1,1,94,,1720000,2025-09-16,Active,Agent C
+L1036,Bryanston,Johannesburg,Apartment,1,1,95,,1800000,2025-11-12,Active,Agent A
+L1534,Lynnwood,Pretoria,Townhouse,3,2,176,587,,2026-07-06,Sold,Agent B
+L1473,Brooklyn,Pretoria,House,1,1,87,364,1490000,2026-07-07,active,Agent F
+L1488,Erasmuskloof,Pretoria,House,2,1,121,707,2525000,2026-08-12,Active,Agent F
+L1133,Bryanston,Johannesburg,House,3,2,167,745,4970000,2026-07-25,Active,Agent E
+L1031,Centurion,Centurion,House,2,2,141,654,2805000,2026-06-26,active,Agent F
+L1171,Midrand,Midrand,Apartment,1,1,87,,995000,2025-07-26,Active,Agent B
+L1199,Waterkloof Ridge,Pretoria,House,5,5,226,870,5435000,2026-07-18,Active,Agent E
+L1462,Bryanston,Johannesburg,House,3,2,129,732,3225000,2026-04-26,Sold,Agent A
+L1425,Menlo Park,Pretoria,House,3,2,176,815,3615000,2025-09-12,Active,Agent D
+L1453,Hatfield,Pretoria,Apartment,2,2,116,,1250000,2025-10-19,Under Offer,Agent A
+L1038, Lynnwood ,Pretoria,Townhouse,1,1,110,558,1870000,2026-02-26,Withdrawn,Agent F
+L1083,Hatfield,Pretoria,House,5,5,215,1159,2500000,2025-06-19,Active,Agent E
+L1449,Centurion,Centurion,House,4,3,194,687,3720000,2026-01-18,Active,Agent E
+L1166,Centurion,Centurion,House,1,1,103,408,1905000,2026-04-14,Active,Agent A
+L1219,Randburg,Johannesburg,Apartment,1,1,92,,1275000,2025-07-17,Active,Agent E
+L1142,Fourways,Johannesburg,House,4,4,203,1193,3740000,2026-04-17,Withdrawn,Agent C
+L1541,Lynnwood,Pretoria,Apartment,3,3,164,,2875000,2026-04-15,Withdrawn,Agent F
+L1039,CENTURION,Centurion,House,2,2,150,491,2800000,2026-04-17,Active,Agent C
+L1240,Fourways,Johannesburg,Townhouse,5,4,252,748,4425000,2025-07-28,Active,Agent F
+L1437,Sandton,Johannesburg,Apartment,3,2,156,,R 3 885 000,2025-03-16,Withdrawn,Agent C
+L1546,Centurion,Centurion,House,3,3,167,868,,2025-10-10,Under Offer,Agent E
+L1427,Sandton,Johannesburg,Apartment,3,2,167,,4455000,2025-12-20,Withdrawn,Agent B
+L1057,Waterkloof,Pretoria,Townhouse,4,4,213,1094,5100000,2026-03-06,Under Offer,Agent F
+L1095,IRENE,Centurion,Townhouse,3,2,159,953,2535000,2025-06-02,Sold,Agent E
+L1536,Lynnwood,Pretoria,Townhouse,3,3,180,755,2725000,2026-08-08,Withdrawn,Agent D
+L1067,Sandton,Johannesburg,House,4,4,230,1086,7550000,2025-06-06,sold,Agent B
+L1045,Fourways,Johannesburg,House,3,2,175,1013,4060000,2025-06-28,Under Offer,Agent E
+L1062,Waterkloof Ridge,Pretoria,Townhouse,3,3,201,959,5110000,2025-02-11,Active,Agent B
+L1131,Sandton,Johannesburg,Apartment,2,2,155,,3650000,2025-02-22,Active,Agent E
+L1585,Irene,Centurion,House,4,4,198,1106,3050000,2026-05-03,Sold,Agent D
+L1030,Groenkloof,Pretoria,House,2,2,119,521,R 2 320 000,2025-05-16,Active,Agent A
+L1048,Erasmuskloof,Pretoria,Apartment,3,3,181,,,2025-08-29,Withdrawn,Agent C
+L1013,Brooklyn,Pretoria,Apartment,3,3,166,,2630000,2025-06-11,Sold,Agent A
+L1492,Lynnwood,Pretoria,Apartment,2,2,120,,2390000,2025-10-03,Active,Agent F
+L1099,Randburg,Johannesburg,House,2,2,157,433,2800000,2025-09-29,Active,Agent E
+L1530,Midrand,Midrand,House,5,4,240,1235,4600000,2026-03-26,Withdrawn,Agent B
+L1146,Randburg,Johannesburg,Townhouse,4,3,219,1255,3290000,2025-11-27,Withdrawn,Agent C
+L1551,Rosebank,Johannesburg,House,5,5,226,823,6290000,2025-06-06,Active,Agent F
+L1180,IRENE,Centurion,House,2,2,132,669,2295000,2026-02-01,Under Offer,Agent A
+L1584,Erasmuskloof,Pretoria,Townhouse,4,4,178,835,2440000,2025-05-15,Active,Agent A
+L1054,Midrand,Midrand,Apartment,2,2,115,,1345000,2025-10-20,Active,Agent C
+L1269,Fourways,Johannesburg,Townhouse,2,2,114,365,2070000,2026-02-12,Active,Agent C
+L1573,Midrand,Midrand,Apartment,1,1,97,,1680000,2025-10-04,Sold,Agent B
+L1497,Bryanston,Johannesburg,House,2,2,152,624,4385000,2025-01-13,Withdrawn,Agent B
+L1513, Irene ,Centurion,Apartment,1,1,75,,1085000,2026-08-01,Sold,Agent E
+L1035,Randburg,Johannesburg,Apartment,2,1,135,,2125000,2025-06-02,Under Offer,Agent A
+L1005, Rosebank ,Johannesburg,House,3,2,143,646,3990000,2025-02-16,Withdrawn,Agent B
+L1560,Waterkloof,Pretoria,House,5,5,252,855,4585000,2025-07-25,Withdrawn,Agent E
+L1281,Lynnwood,Pretoria,House,4,4,201,632,,2026-03-19,Sold,Agent A
+L1161,Brooklyn,Pretoria,Apartment,3,3,159,,2490000,2026-06-10,Active,Agent D
+L1382,Bryanston,Johannesburg,Apartment,1,1,84,,1735000,2026-06-18,Under Offer,Agent D
+L1173,Hatfield,Pretoria,House,1,1,91,344,1525000,2026-03-27,Sold,Agent C
+L1267,Erasmuskloof,Pretoria,Apartment,1,1,94,,1510000,2025-07-20,Sold,Agent A
+L1591,Hatfield,Pretoria,Apartment,3,3,183,,2355000,2025-03-31,Sold,Agent F
+L1557,Randburg,Johannesburg,House,3,3,161,813,2090000,2025-02-25,Active,Agent E
+L1124,Groenkloof,Pretoria,Apartment,2,1,138,,2375000,2026-04-08,Under Offer,Agent B
+L1237,Menlo Park,Pretoria,Townhouse,5,5,224,996,4065000,2025-06-29,Withdrawn,Agent F
+L1592,Erasmuskloof,Pretoria,House,3,3,180,780,,2025-12-29,Active,Agent E
+L1300,Hatfield,Pretoria,Townhouse,3,3,161,553,2430000,2025-12-12,Under Offer,Agent E
+L1357,Centurion,Centurion,House,2,2,126,734,1680000,2025-06-24,Sold,Agent B
+L1051,Waterkloof,Pretoria,Townhouse,2,2,135,666,2755000,2026-07-25,Active,Agent A
+L1137,Waterkloof Ridge,Pretoria,House,1,1,109,434,2805000,2026-03-01,Active,Agent B
+L1139,Waterkloof Ridge,Pretoria,House,1,1,105,544,2880000,2025-10-24,Active,Agent A
+L1172,Waterkloof Ridge,Pretoria,House,3,2,129,502,3610000,2026-04-30,Active,Agent A
+L1522,Randburg,Johannesburg,Apartment,1,1,109,,1200000,2025-05-30,Active,Agent C
+L1468,Fourways,Johannesburg,House,1,1,78,351,1425000,2026-06-09,Active,Agent E
+L1222,WATERKLOOF,Pretoria,House,3,2,175,582,4235000,2026-04-22,Active,Agent B
+L1511,Irene,Centurion,Apartment,1,1,108,,1405000,2025-10-18,Sold,Agent F
+L1552,Rosebank,Johannesburg,Townhouse,5,5,252,825,5390000,2026-02-08,Active,Agent B
+L1352,Lynnwood,Pretoria,House,3,3,160,499,2495000,2026-08-10,Sold,Agent E
+L1050,Hatfield,Pretoria,Apartment,2,2,142,,1655000,2025-06-01,Withdrawn,Agent F
+L1022,Brooklyn,Pretoria,House,3,3,171,576,3025000,2026-04-05,Active,Agent D
+L1345,Rosebank,Johannesburg,House,2,2,131,665,3145000,2025-01-29,Withdrawn,Agent F
+L1162,Groenkloof,Pretoria,Townhouse,3,3,189,1057,,2026-03-01,Active,Agent D
+L1196,Sandton,Johannesburg,House,2,2,119,712,3365000,2025-11-12,Sold,Agent A
+L1230,Midrand,Midrand,House,4,4,205,1064,1,2026-03-07,Active,Agent D
+L1525,Hatfield,Pretoria,Apartment,2,2,143,,1930000,2026-07-17,Under Offer,Agent A
+L1007,Bryanston,Johannesburg,House,3,2,184,852,4195000,2025-09-08,Active,Agent D
+L1579,Menlo Park,Pretoria,Apartment,2,2,128,,2315000,2026-07-14,Active,Agent D
+L1272,Randburg,Johannesburg,Townhouse,2,2,112,543,1375000,2025-11-07,Active,Agent C
+L1377,Waterkloof Ridge,Pretoria,Apartment,2,1,134,,2755000,2026-02-11,Withdrawn,Agent A
+L1135,Menlo Park,Pretoria,Apartment,2,2,143,,1825000,2026-06-28,Active,Agent D
+L1423,Brooklyn,Pretoria,Townhouse,4,4,179,531,3370000,2026-06-28,Withdrawn,Agent A
+L1200,Brooklyn,Pretoria,House,2,2,139,529,3455000,2026-07-26,Active,Agent B
+L1195, Centurion ,Centurion,House,1,1,123,487,2425000,2025-06-13,Active,Agent E
+L1120,HATFIELD,Pretoria,Apartment,3,3,170,,1660000,2025-12-08,Active,Agent B
+L1273,Menlo Park,Pretoria,Apartment,2,2,110,,1835000,2026-07-02,Under Offer,Agent F
+L1355,Irene,Centurion,House,2,2,129,323,2135000,2026-03-06,Active,Agent D
+L1155,Fourways,Johannesburg,Apartment,1,1,81,,1375000,2026-05-13,Active,Agent B
+L1244,RANDBURG,Johannesburg,Apartment,2,2,107,,1290000,2026-06-10,Sold,Agent D
+L1205,Centurion,Centurion,Apartment,3,3,175,,2565000,2026-01-25,Active,Agent F
+L1238,Fourways,Johannesburg,Apartment,1,1,101,,1,2026-01-26,Under Offer,Agent C
+L1367,Menlo Park,Pretoria,House,4,4,208,674,3410000,2025-02-13,Sold,Agent A
+L1419,Centurion,Centurion,Townhouse,3,2,167,836,2365000,2026-04-09,Active,Agent A
+L1060,Groenkloof,Pretoria,Apartment,1,1,92,,1310000,2025-09-24,Sold,Agent C
+L1136, Fourways ,Johannesburg,House,2,2,146,524,2900000,2026-08-05,Under Offer,Agent A
+L1329,Groenkloof,Pretoria,House,3,2,137,562,,2026-08-18,Active,Agent E
+L1452,Waterkloof Ridge,Pretoria,Townhouse,5,5,243,1155,,2025-03-10,Active,Agent A
+L1177,Irene,Centurion,Apartment,1,1,87,,1295000,2025-06-13,Active,Agent B
+L1310,GROENKLOOF,Pretoria,House,3,2,151,391,3385000,2025-11-05,Active,Agent E
+L1108,Waterkloof Ridge,Pretoria,Townhouse,4,4,199,1037,3970000,2025-12-27,Active,Agent F
+L1514,Erasmuskloof,Pretoria,Townhouse,4,3,195,642,2635000,2025-11-12,Active,Agent D
+L1327,Fourways,Johannesburg,House,5,5,,554,,2026-01-21,Withdrawn,Agent F
+L1226,Hatfield,Pretoria,Apartment,1,1,92,,1035000,2026-06-17,Sold,Agent A
+L1339,Rosebank,Johannesburg,Apartment,2,1,117,,250000000,2025-10-09,Active,Agent D
+L1501,Fourways,Johannesburg,Townhouse,3,3,172,714,2670000,2026-03-08,Sold,Agent B
+L1197,Groenkloof,Pretoria,Townhouse,5,5,245,915,3520000,2026-05-22,Under Offer,Agent F
+L1212,Irene,Centurion,Townhouse,3,3,157,847,,2026-07-30,Withdrawn,Agent C
+L1254,Waterkloof Ridge,Pretoria,House,4,4,181,802,3580000,2025-01-10,Withdrawn,Agent B
+L1079,Erasmuskloof,Pretoria,House,3,3,150,687,2830000,2026-06-20,Sold,Agent D
+L1305,Midrand,Midrand,House,3,2,164,809,3155000,2026-03-09,Withdrawn,Agent B
+L1075,Brooklyn,Pretoria,Townhouse,3,3,156,776,2455000,2025-02-16,Active,Agent E
+L1044,Groenkloof,Pretoria,Townhouse,3,2,161,579,3325000,2025-11-04,Under Offer,Agent C
+L1451,Bryanston,Johannesburg,House,5,5,240,1301,5535000,2025-07-05,Withdrawn,Agent E
+L1526,Irene,Centurion,Apartment,2,2,150,,2085000,2025-02-23,Withdrawn,Agent B
+L1271,Hatfield,Pretoria,Apartment,3,3,157,,2295000,2026-04-18,Withdrawn,Agent B
+L1580,Fourways,Johannesburg,House,1,1,87,355,2195000,2025-07-26,Sold,Agent A
+L1411,Lynnwood,Pretoria,Apartment,2,1,152,,2965000,2025-05-14,Sold,Agent D
+L1121,Hatfield,Pretoria,House,5,5,211,699,,2025-01-03,Active,Agent B
+L1359,Fourways,Johannesburg,Townhouse,2,1,,388,2345000,2025-07-14,Sold,Agent F
+L1519,IRENE,Centurion,House,2,2,134,548,2285000,2026-05-19,Active,Agent C
+L1512,Menlo Park,Pretoria,House,2,2,123,322,2185000,2025-11-30,Sold,Agent D
+L1190,Menlo Park,Pretoria,House,3,2,174,460,3825000,2025-03-25,Active,Agent F
+L1229,Rosebank,Johannesburg,House,1,1,96,382,2675000,2026-07-09,Active,Agent A
+L1338,Menlo Park,Pretoria,House,3,3,147,389,2735000,2025-06-22,Under Offer,Agent D
+L1078,Rosebank,Johannesburg,Apartment,3,2,169,,3980000,2025-06-05,Active,Agent E
+L1555,Groenkloof,Pretoria,House,4,4,192,555,3595000,2026-01-10,Active,Agent B
+L1303,Lynnwood,Pretoria,Townhouse,3,3,158,600,3420000,2025-06-19,Active,Agent D
+L1090,Waterkloof Ridge,Pretoria,House,3,2,162,833,,2025-02-22,Active,Agent C
+L1582,Rosebank,Johannesburg,Apartment,Studio,2,158,,4120000,2026-01-23,Under Offer,Agent D
+L1486,Groenkloof,Pretoria,Townhouse,5,5,221,1114,4060000,2026-08-20,Active,Agent C
+L1463,WATERKLOOF RIDGE,Pretoria,Townhouse,3,3,159,859,4125000,2025-09-27,Under Offer,Agent E
+L1008,Rosebank,Johannesburg,House,5,5,226,1106,6660000,2025-02-27,Active,Agent A
+L1132,Erasmuskloof,Pretoria,House,5,5,209,635,3715000,2025-04-21,Active,Agent E
+L1520,Waterkloof,Pretoria,House,5,5,240,756,4465000,2025-10-03,Active,Agent F
+L1474,Fourways,Johannesburg,Apartment,2,2,129,,2565000,2026-03-16,Active,Agent D
+L1597,Lynnwood,Pretoria,House,3,2,148,388,2485000,2025-06-09,Withdrawn,Agent D
+L1570,Fourways,Johannesburg,House,3,3,162,846,2885000,2025-07-09,Active,Agent E
+L1130,Groenkloof,Pretoria,House,2,1,139,706,3075000,2026-07-24,Active,Agent E
+L1537, Midrand ,Midrand,Apartment,3,3,175,,2755000,2025-01-14,Active,Agent F
+L1533,Lynnwood,Pretoria,House,2,2,126,476,1965000,2026-06-03,Sold,Agent F
+L1460,Groenkloof,Pretoria,House,5,5,227,1093,5095000,2025-06-19,Under Offer,Agent B
+L1259,Menlo Park,Pretoria,Townhouse,2,1,129,366,1985000,2025-03-19,Active,Agent E
+L1065,Rosebank,Johannesburg,House,3,3,141,472,3925000,2025-11-05,Withdrawn,Agent E
+L1043,Hatfield,Pretoria,House,4,4,173,848,2960000,2025-07-21,Active,Agent D
+L1249,Groenkloof,Pretoria,Townhouse,1,1,70,231,1365000,2025-01-10,Active,Agent E
+L1147, Menlo Park ,Pretoria,House,4,4,181,827,3205000,2025-03-17,Active,Agent D
+L1014,Irene,Centurion,Townhouse,2,1,116,660,2160000,2025-11-02,Withdrawn,Agent E
+L1320,Irene,Centurion,Apartment,,1,118,,,2025-03-20,Sold,Agent D
+L1378,Waterkloof,Pretoria,House,4,3,213,865,5770000,2026-05-01,Under Offer,Agent E
+L1415,Midrand,Midrand,Townhouse,2,2,124,430,1935000,2026-07-18,Withdrawn,Agent D
+L1150,Midrand,Midrand,Apartment,1,1,85,,1005000,2025-12-18,Withdrawn,Agent A
+L1337,Rosebank,Johannesburg,House,2,1,101,279,3150000,2025-07-22,Withdrawn,Agent D
+L1027,Midrand,Midrand,Apartment,3,3,181,,3000000,2025-03-12,Under Offer,Agent A
+L1547,Menlo Park,Pretoria,House,Studio,4,206,1156,3475000,2025-09-20,Active,Agent A
+L1521,Randburg,Johannesburg,Apartment,1,1,105,,1315000,2025-11-16,Sold,Agent C
+L1455,BRYANSTON,Johannesburg,Townhouse,4,4,,691,5715000,2026-03-23,Active,Agent C
+L1243,Brooklyn,Pretoria,Townhouse,4,4,192,746,3205000,2025-11-26,Active,Agent D
+L1574,Hatfield,Pretoria,Townhouse,2,2,145,833,,2026-05-17,Withdrawn,Agent C
+L1549,Midrand,Midrand,Townhouse,2,1,127,676,1870000,2025-02-27,Active,Agent C
+L1134,Irene,Centurion,House,3,2,180,930,R 3 715 000,2025-12-26,Active,Agent B
+L1550,Fourways,Johannesburg,House,2,2,126,644,3125000,2025-01-12,Withdrawn,Agent F
+L1402,Brooklyn,Pretoria,Apartment,2,1,125,,1,2025-05-21,Sold,Agent A
+L1373,Sandton,Johannesburg,Townhouse,3,3,161,794,1,2025-08-22,Active,Agent C
+L1156,Menlo Park,Pretoria,House,3,3,199,851,3835000,2026-06-24,Active,Agent F
+L1384,SANDTON,Johannesburg,Townhouse,3,2,148,738,4580000,2025-11-02,Active,Agent B
+L1306,Midrand,Midrand,House,4,4,198,1001,2760000,2025-11-17,Active,Agent C
+L1356,Midrand,Midrand,Townhouse,3,2,172,655,3060000,2026-08-15,Withdrawn,Agent F
+L1019,Brooklyn,Pretoria,House,2,2,148,674,2375000,2025-03-02,Active,Agent A
+L1086,Irene,Centurion,Apartment,1,1,74,,1105000,2026-03-29,Active,Agent B
+L1149,Rosebank,Johannesburg,Apartment,3,2,178,,4400000,2025-07-12,Active,Agent E
+L1576,Waterkloof Ridge,Pretoria,Apartment,2,2,109,,2605000,2025-02-13,Active,Agent E
+L1469,Menlo Park,Pretoria,House,3,3,149,877,2995000,2025-10-18,Active,Agent B
+L1589,Randburg,Johannesburg,Townhouse,3,3,175,663,2420000,2025-03-11,Sold,Agent E
+L1216,Centurion,Centurion,Apartment,1,1,114,,1530000,2025-06-30,Active,Agent D
+L1170,Brooklyn,Pretoria,Townhouse,3,3,133,353,2555000,2025-06-29,Withdrawn,Agent D
+L1376,Rosebank,Johannesburg,House,5,4,236,613,5230000,2025-07-25,Active,Agent B
+L1294,Fourways,Johannesburg,House,2,2,124,663,,2026-08-07,Active,Agent E
+L1447,Groenkloof,Pretoria,Townhouse,1,1,103,438,1675000,2025-11-05,Under Offer,Agent A
+L1263,Brooklyn,Pretoria,House,3,3,157,465,2775000,2026-04-05,Under Offer,Agent E
+L1233,Fourways,Johannesburg,Apartment,1,1,86,,1355000,2025-04-26,Active,Agent F
+L1548,Rosebank,Johannesburg,Apartment,1,1,104,,1840000,2025-11-29,Sold,Agent B
+L1006,Erasmuskloof,Pretoria,Townhouse,3,3,144,551,2325000,2026-01-09,Active,Agent C
+L1496, Irene ,Centurion,House,2,2,159,690,2675000,2026-07-08,Active,Agent E
+L1274,Fourways,Johannesburg,Apartment,2,1,136,,2920000,2026-07-04,Under Offer,Agent F
+L1176,Fourways,Johannesburg,House,4,4,,837,4875000,2025-12-28,Under Offer,Agent D
+L1028,Centurion,Centurion,House,3,2,171,783,2950000,2026-03-06,Withdrawn,Agent E
+L1314,Waterkloof Ridge,Pretoria,Townhouse,4,3,192,672,4750000,2026-03-02,Sold,Agent F
+L1160,Fourways,Johannesburg,Townhouse,3,2,191,570,3365000,2026-05-08,Active,Agent E
+L1297,Centurion,Centurion,House,3,3,166,699,2810000,2025-10-03,Withdrawn,Agent D
+L1409,Brooklyn,Pretoria,House,4,4,211,880,4175000,2025-06-20,Active,Agent B
+L1277,Centurion,Centurion,House,4,4,202,858,3085000,2025-01-26,Sold,Agent A
+L1567,Menlo Park,Pretoria,House,3,2,156,502,2485000,2026-07-09,Withdrawn,Agent B
+L1589,Randburg,Johannesburg,Townhouse,3,3,175,663,2420000,2025-03-11,Sold,Agent E
+L1040,Centurion,Centurion,House,3,3,143,521,2720000,2025-10-13,Active,Agent F
+L1343,Irene,Centurion,House,3,2,171,893,2400000,2026-04-29,Under Offer,Agent C
+L1340,Menlo Park,Pretoria,House,3,2,171,604,3115000,2026-07-18,Sold,Agent A
+L1380,Centurion,Centurion,Apartment,2,1,124,,1655000,2025-01-21,Withdrawn,Agent A
+L1323,FOURWAYS,Johannesburg,House,3,3,176,948,3905000,2025-05-03,Under Offer,Agent F
+L1600,Irene,Centurion,Townhouse,3,3,158,741,2910000,2026-08-08,Under Offer,Agent D
+L1126,Brooklyn,Pretoria,Apartment,2,2,140,,2865000,2025-11-26,Under Offer,Agent B
+L1046,Erasmuskloof,Pretoria,House,1,1,106,371,,2026-08-17,Under Offer,Agent F
+L1313,Fourways,Johannesburg,House,2,2,154,393,2685000,2025-09-26,Active,Agent A
+L1590,Groenkloof,Pretoria,House,2,2,136,670,2385000,2026-06-24,Sold,Agent E
+L1268,Menlo Park,Pretoria,House,4,4,211,1149,3790000,2025-12-04,Sold,Agent C
+L1482,Groenkloof,Pretoria,Apartment,2,2,114,,1980000,2026-06-18,Active,Agent F
+L1265,Erasmuskloof,Pretoria,House,2,1,156,924,1,2025-06-23,Withdrawn,Agent D
+L1239,Fourways,Johannesburg,House,3,3,172,575,3255000,2025-05-28,Sold,Agent A
+L1144,Lynnwood,Pretoria,House,2,1,135,578,3175000,2025-12-24,Active,Agent F
+L1399,Waterkloof,Pretoria,Apartment,1,1,80,,1220000,2025-09-19,Under Offer,Agent E
+L1385,Centurion,Centurion,Townhouse,4,3,196,507,2950000,2025-10-30,Active,Agent D
+L1440,Waterkloof,Pretoria,House,3,3,177,591,4240000,2025-09-07,Active,Agent F
+L1270,Midrand,Midrand,Townhouse,3,3,197,751,3490000,2026-02-07,Active,Agent A
+L1502,Sandton,Johannesburg,Townhouse,3,3,141,629,3830000,2026-02-12,Active,Agent F
+L1374,Randburg,Johannesburg,Townhouse,3,3,182,919,2780000,2025-04-02,Active,Agent D
+L1073,Fourways,Johannesburg,Townhouse,5,5,,803,3925000,2025-07-17,Active,Agent A
+L1041,Rosebank,Johannesburg,Apartment,3,3,171,,4490000,2025-07-02,Under Offer,Agent C
+L1354,Sandton,Johannesburg,House,2,1,149,721,4705000,2025-12-10,Sold,Agent A
+L1247,Midrand,Midrand,Apartment,2,2,131,,2065000,2026-05-18,Sold,Agent B
+L1298,Rosebank,Johannesburg,House,2,2,107,460,2470000,2026-01-13,Sold,Agent D
+L1058,Centurion,Centurion,Apartment,2,2,130,,1800000,2026-02-03,Active,Agent F
+L1189,Irene,Centurion,House,5,5,243,1061,4235000,2025-06-22,Under Offer,Agent E
+L1361,Midrand,Midrand,House,3,3,153,737,2700000,2025-07-24,Active,Agent A
+L1248,Bryanston,Johannesburg,House,5,5,217,682,6770000,2025-03-02,Under Offer,Agent A
+L1291,Brooklyn,Pretoria,Apartment,2,1,,,2705000,2025-02-12,Withdrawn,Agent D
+L1020,Waterkloof Ridge,Pretoria,Townhouse,2,1,132,439,3205000,2025-08-08,Under Offer,Agent B
+L1018,Hatfield,Pretoria,Apartment,2,1,142,,1845000,2026-03-25,Under Offer,Agent D
+L1188,Menlo Park,Pretoria,House,2,2,116,669,250000000,2026-06-16,Active,Agent A
+L1505,Lynnwood,Pretoria,Townhouse,3,3,156,813,2800000,2025-03-22,Sold,Agent E
+L1280,Brooklyn,Pretoria,House,3,2,170,490,,2025-09-07,Under Offer,Agent B
+L1594,Brooklyn,Pretoria,House,2,1,100,546,2315000,2026-03-01,Sold,Agent A
+L1568,Menlo Park,Pretoria,House,5,5,251,1005,5610000,2025-05-29,Withdrawn,Agent E
+L1529, Groenkloof ,Pretoria,Apartment,2,1,143,,2005000,2026-07-04,Active,Agent B
+L1257,Waterkloof Ridge,Pretoria,House,3,3,184,944,4945000,2026-02-12,Active,Agent C
+L1365,Bryanston,Johannesburg,Townhouse,Studio,3,200,770,4950000,2026-07-03,Withdrawn,Agent D
+L1122,Menlo Park,Pretoria,Apartment,1,1,80,,1380000,2025-01-27,Active,Agent A
+L1375,Hatfield,Pretoria,Townhouse,4,3,182,693,1930000,2025-06-12,Active,Agent C
+L1434,Bryanston,Johannesburg,Townhouse,5,4,224,1033,6155000,2025-07-18,Active,Agent D
+L1256,Centurion,Centurion,House,4,4,181,481,2410000,2025-10-15,Under Offer,Agent E
+L1531,Waterkloof,Pretoria,Apartment,2,1,151,,2875000,2026-03-25,Under Offer,Agent C
+L1004,Groenkloof,Pretoria,House,3,3,156,719,3445000,2026-04-16,Under Offer,Agent A
+L1310,GROENKLOOF,Pretoria,House,3,2,151,391,3385000,2025-11-05,Active,Agent E
+L1218,Midrand,Midrand,Townhouse,2,1,131,542,1760000,2025-04-26,Active,Agent B
+L1096,Midrand,Midrand,House,5,4,254,970,5110000,2025-07-13,Withdrawn,Agent B
+L1116,Waterkloof Ridge,Pretoria,Townhouse,3,3,175,508,3495000,2026-07-05,active,Agent D
+L1182,Randburg,Johannesburg,House,4,4,199,1062,3810000,2025-11-24,Withdrawn,Agent C
+L1535, Midrand ,Midrand,Townhouse,2,1,126,457,1610000,2025-03-10,Active,Agent B
+L1461,Randburg,Johannesburg,House,2,1,125,330,2210000,2025-08-26,Active,Agent C
+L1435,Lynnwood,Pretoria,Townhouse,2,2,153,446,2245000,2025-10-13,Under Offer,Agent C
+L1466,Randburg,Johannesburg,House,2,1,145,689,2010000,2025-07-11,Active,Agent C
+L1185,Bryanston,Johannesburg,Apartment,3,3,160,,3320000,2026-05-06,Under Offer,Agent D
+L1436,Menlo Park,Pretoria,House,3,3,159,581,3290000,2025-06-08,Active,Agent B
+L1467,Brooklyn,Pretoria,Apartment,2,2,126,,2175000,2025-08-04,Under Offer,Agent B
+L1426,Sandton,Johannesburg,Townhouse,4,4,189,563,5210000,2026-06-09,Active,Agent F
+L1141,Bryanston,Johannesburg,House,1,1,128,706,3520000,2026-08-11,Sold,Agent F
+L1087,Fourways,Johannesburg,Apartment,2,2,114,,1920000,2025-04-18,Active,Agent C
+L1140,Waterkloof,Pretoria,Apartment,2,2,164,,2630000,2026-06-30,Withdrawn,Agent B
+L1448,Erasmuskloof,Pretoria,Townhouse,4,4,188,729,3320000,2026-05-01,Active,Agent E
+L1596,Sandton,Johannesburg,Townhouse,2,1,112,410,2820000,2026-08-06,Under Offer,Agent A
+L1148,Randburg,Johannesburg,House,3,3,145,401,1,2025-04-03,Under Offer,Agent E
+L1017,Midrand,Midrand,Townhouse,5,5,246,1088,3430000,2026-03-10,Active,Agent E
+L1074,Lynnwood,Pretoria,House,4,4,213,1072,5145000,2026-06-22,Under Offer,Agent C
+L1012,Groenkloof,Pretoria,House,4,3,201,679,4005000,2025-01-12,Withdrawn,Agent F
+L1138,Brooklyn,Pretoria,House,2,2,137,667,2920000,2026-06-24,Withdrawn,Agent C
+L1129,Randburg,Johannesburg,House,2,2,110,419,1480000,2026-05-01,Active,Agent A
+L1296,Menlo Park,Pretoria,Townhouse,4,4,198,1182,4010000,2025-05-10,Withdrawn,Agent B
+L1158, Waterkloof Ridge ,Pretoria,House,3,3,171,792,4670000,2026-04-05,Active,Agent E
+L1428,Lynnwood,Pretoria,Apartment,2,1,140,,1975000,2025-12-27,Under Offer,Agent D
+L1369,Rosebank,Johannesburg,Apartment,2,1,100,,2450000,2026-06-20,Sold,Agent A
+L1073,Fourways,Johannesburg,Townhouse,5,5,,803,3925000,2025-07-17,Active,Agent A
+L1193,Fourways,Johannesburg,Apartment,1,1,84,,1680000,2025-12-20,Sold,Agent B
+L1578,Erasmuskloof,Pretoria,Apartment,2,2,146,,2335000,2025-02-25,Withdrawn,Agent E
+L1487,Irene,Centurion,House,3,3,182,621,3040000,2025-04-20,under offer,Agent A
+L1599,Sandton,Johannesburg,Apartment,1,1,83,,2390000,2025-12-29,Active,Agent B
+L1217,Midrand,Midrand,House,3,3,184,529,3770000,2025-10-19,Sold,Agent F
+L1564,Rosebank,Johannesburg,Townhouse,1,1,86,420,1895000,2025-11-06,Active,Agent E
+L1391,Brooklyn,Pretoria,Townhouse,4,3,198,1086,3135000,2025-07-25,Active,Agent D
+L1587,Lynnwood,Pretoria,House,3,3,167,755,3485000,2025-12-06,Active,Agent A
+L1392,Randburg,Johannesburg,House,2,2,134,563,2250000,2025-07-01,Active,Agent F
+L1326,Midrand,Midrand,Townhouse,3,2,174,983,3015000,2025-09-09,Active,Agent A
+L1404,Fourways,Johannesburg,House,1,1,104,440,1950000,2026-05-08,Active,Agent B
+L1443,Lynnwood,Pretoria,Townhouse,5,4,240,1163,4940000,2026-03-11,Active,Agent B
+L1241,Groenkloof,Pretoria,Townhouse,3,3,137,367,2320000,2025-02-10,Active,Agent B
+L1032,Erasmuskloof,Pretoria,Townhouse,2,2,109,373,2105000,2026-07-21,Active,Agent C
+L1289,Midrand,Midrand,House,4,4,195,601,3390000,2025-08-14,Active,Agent A
+L1113,Rosebank,Johannesburg,Townhouse,5,5,247,846,4860000,2026-01-13,Withdrawn,Agent F
+L1368,Fourways,Johannesburg,House,2,1,127,432,3225000,2025-03-10,Active,Agent D
+L1577,Rosebank,Johannesburg,Townhouse,1,1,75,440,1525000,2026-03-27,Sold,Agent C
+L1055,Sandton,Johannesburg,House,5,5,242,1192,7570000,2025-03-07,Sold,Agent D
+L1379,Bryanston,Johannesburg,House,3,2,168,436,3590000,2026-08-09,Active,Agent B
+L1064,Brooklyn,Pretoria,Townhouse,2,2,145,417,2165000,2025-11-16,Under Offer,Agent F
+L1302,Lynnwood,Pretoria,House,1,1,79,253,1705000,2025-05-16,Withdrawn,Agent C
+L1131,Sandton,Johannesburg,Apartment,2,2,155,,3650000,2025-02-22,Active,Agent E
+L1414,Rosebank,Johannesburg,House,5,4,231,621,6290000,2025-06-10,Under Offer,Agent D
+L1523,Rosebank,Johannesburg,House,4,4,210,1125,6155000,2025-05-05,Withdrawn,Agent B
+L1009,Sandton,Johannesburg,House,2,2,146,731,3660000,2026-05-27,Sold,Agent F
+L1092,Waterkloof,Pretoria,Apartment,1,1,95,,2210000,2025-04-27,Sold,Agent A
+L1353,Waterkloof Ridge,Pretoria,House,3,2,168,970,3480000,2025-03-21,Active,Agent C
+L1521,Randburg,Johannesburg,Apartment,1,1,105,,1315000,2025-11-16,Sold,Agent C
+L1312,Groenkloof,Pretoria,Apartment,1,1,105,,2065000,2025-05-16,Sold,Agent E
+L1307,Menlo Park,Pretoria,House,2,1,138,601,2050000,2025-06-18,Sold,Agent C
+L1325,Sandton,Johannesburg,House,4,4,191,1001,6055000,2025-09-06,Sold,Agent C
+L1211, Rosebank ,Johannesburg,Townhouse,4,4,226,794,4830000,2025-03-22,Active,Agent D
+L1201,Hatfield,Pretoria,Apartment,2,1,134,,1785000,2026-05-01,Under Offer,Agent D
+L1458,Waterkloof,Pretoria,Townhouse,1,1,88,398,2040000,2025-08-06,Active,Agent E
+L1400,Waterkloof Ridge,Pretoria,Apartment,1,1,111,,1920000,2025-01-21,Active,Agent F
+L1299,Sandton,Johannesburg,Apartment,1,1,115,,3045000,2025-03-06,Under Offer,Agent D
+L1545,Randburg,Johannesburg,Townhouse,1,1,106,271,1300000,2025-11-06,Active,Agent C
+L1464,Lynnwood,Pretoria,House,4,4,182,829,4270000,2025-03-21,Under Offer,Agent C
+L1153,Menlo Park,Pretoria,House,2,2,121,582,,2025-03-28,Active,Agent E
+L1151,Lynnwood,Pretoria,House,4,4,179,675,4230000,2026-02-01,Sold,Agent C
+L1001,Brooklyn,Pretoria,House,3,3,169,822,4060000,2025-03-31,Under Offer,Agent D
+L1143,Groenkloof,Pretoria,House,2,2,116,321,2625000,2025-12-14,Active,Agent C
+L1223,Rosebank,Johannesburg,Apartment,2,1,154,,3050000,2025-08-15,Active,Agent B
+L1093,Menlo Park,Pretoria,Apartment,2,1,125,,1995000,2026-04-29,Active,Agent D
+L1063,Hatfield,Pretoria,Townhouse,2,2,145,648,1675000,2025-09-20,Active,Agent B
+L1507,Rosebank,Johannesburg,Townhouse,2,2,135,487,2890000,2025-10-01,Under Offer,Agent F
+L1336, Randburg ,Johannesburg,House,2,2,132,335,2400000,2025-08-16,Active,Agent B
+L1389,Groenkloof,Pretoria,House,3,2,175,980,3215000,2026-08-23,Active,Agent D
+L1112,Brooklyn,Pretoria,Apartment,1,1,122,,2360000,2025-08-20,Withdrawn,Agent F
+L1072,Erasmuskloof,Pretoria,House,3,3,161,776,2720000,2026-07-21,Under Offer,Agent C
+L1416,Rosebank,Johannesburg,Townhouse,2,2,142,575,3450000,2025-04-01,Sold,Agent D
+L1316,SANDTON,Johannesburg,House,2,2,121,598,3820000,2025-09-02,Active,Agent B
+L1181,Irene,Centurion,Townhouse,4,4,212,1210,3385000,2025-05-06,Active,Agent A
+L1456,Menlo Park,Pretoria,Apartment,2,2,130,,2060000,2026-01-03,Active,Agent D
+L1100,Rosebank,Johannesburg,Apartment,2,1,101,,2545000,2026-01-25,Active,Agent F
+L1569,Lynnwood,Pretoria,House,5,4,242,874,5640000,2025-01-31,Active,Agent D
+L1334,Waterkloof Ridge,Pretoria,House,3,3,169,476,3695000,2025-12-31,Sold,Agent E
+L1475,Rosebank,Johannesburg,House,2,2,141,467,4180000,2025-10-18,Under Offer,Agent E
+L1118,Irene,Centurion,House,3,3,152,615,,2026-01-07,Active,Agent F
+L1499,Irene,Centurion,House,4,3,194,772,3260000,2026-01-17,Active,Agent D
+L1588,Brooklyn,Pretoria,House,2,2,,645,2855000,2026-08-10,Under Offer,Agent B
+L1080,Randburg,Johannesburg,House,4,4,194,871,2485000,2025-04-12,Active,Agent F
+L1178,Randburg,Johannesburg,House,2,2,116,606,1730000,2026-01-28,Under Offer,Agent A
+L1242,Hatfield,Pretoria,Apartment,2,2,123,,1800000,2025-01-16,Active,Agent B
+L1558,Menlo Park,Pretoria,Townhouse,3,3,156,577,3085000,2025-11-09,Sold,Agent D
+L1351,Midrand,Midrand,Apartment,1,1,117,,1995000,2026-01-01,Active,Agent F
+L1581,Irene,Centurion,House,2,1,129,641,2380000,2025-03-29,Under Offer,Agent F
+L1446,Randburg,Johannesburg,Apartment,2,2,140,,1485000,2025-05-02,Under Offer,Agent A
+L1442,Randburg,Johannesburg,Apartment,2,1,154,,1795000,2026-06-11,Active,Agent A
+L1416,Rosebank,Johannesburg,Townhouse,2,2,142,575,3450000,2025-04-01,Sold,Agent D
+L1214,Midrand,Midrand,House,2,2,140,822,2860000,2025-06-11,Sold,Agent F
+L1349, Menlo Park ,Pretoria,Apartment,1,1,111,,2150000,2026-01-18,Withdrawn,Agent F
+L1068,Irene,Centurion,Apartment,3,3,188,,2740000,2025-10-02,Active,Agent B
+L1394,Fourways,Johannesburg,Apartment,2,2,120,,2640000,2026-01-28,Active,Agent A
+L1494,Bryanston,Johannesburg,House,2,2,99,566,2840000,2026-05-20,Under Offer,Agent A
+L1163,Bryanston,Johannesburg,House,2,2,132,375,3845000,2025-12-10,Active,Agent B
+L1562,Rosebank,Johannesburg,House,4,3,207,1225,4370000,2025-11-20,Sold,Agent E
+L1250,Randburg,Johannesburg,House,4,3,215,904,2675000,2026-07-19,Sold,Agent A
+L1245,Brooklyn,Pretoria,Townhouse,4,4,212,837,4105000,2025-08-15,Withdrawn,Agent B
